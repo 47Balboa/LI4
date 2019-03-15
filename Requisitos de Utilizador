@@ -1,0 +1,91 @@
+
+
+1. O utilizador tem de se registar na aplicação para a poder utilizar.
+
+
+2. O utilizador tem de se autenticar para poder utilizar a aplicação.
+
+
+3. O utilizador pode fornecer as suas preferência de modo a configurar 
+o sistema com o que pretendem cozinhar usualmente e que tipo 
+de ingredientes querem usar
+
+
+4. O utilizador deve poder editar informação relativa ao seu perfil.
+
+
+5. O utilizador deve poder editar infornação relativa às suas preferências.
+
+
+6. O utlizador poderá consultar um conjunto de dados relativos aos cozinhados realizados.
+
+
+7. O utilizador poderá anotar uma ementa semanal e preparar a lista dos ingredientes.
+
+
+8. O utilizador poderá escolher uma receita depois de solicitar ao programa 
+que lhe apresente receitas, uma de cada vez.
+
+
+9. O utilizador pode 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registar utilizadores;
+	Fazer login;
+	Apagar conta;
+	Alterar dados pessoais; 
+	Apresentar serviços e funcionalidades;
+	Definir uma configuração inicial;
+	Mostrar o modo de preparação, ingredientes a utilizar, informação nutricional de uma receita e utensílios a utilizar; 
+	Sugerir um vídeo (?) que mostre a explicação da receita;
+	Indicar o local onde poderá adquirir certo(s) ingrediente(s);
+	Acompanhar os utilizadores ao longo da realização do “cozinhado”;
+	Anotar uma ementa semanal e preparar a lista dos ingredientes;
+	Visualizar um conjunto de dados relativos aos cozinhados preparados (dashboard).
+
+
+Identidades:
+	Utilizador:
+- Username;
+- Palavra passe;
+- Nome;
+- Email;
+- Nº de telemóvel;
+- Localização Atual;
+- Configuração(identidade).
+        
+
+	Receita:
+- Modo de preparação (Lista de passos);
+- Ingredientes;
+- Utensílios;
+- Informação nutricional;
+- Vídeos (Eventualmente);
+- Dados relativos (…?).
+
+	Ingrediente:
+- Nome;
+- Tipo (?);
+- Valor nutricional;
+- Quantidade.
+
+	Configuração:
