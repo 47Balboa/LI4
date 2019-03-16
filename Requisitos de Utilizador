@@ -6,28 +6,25 @@
 2. O utilizador tem de se autenticar para poder utilizar a aplicação.
 
 
-3. O utilizador pode fornecer as suas preferência de modo a configurar 
-o sistema com o que pretendem cozinhar usualmente e que tipo 
-de ingredientes querem usar
+3. O utilizador pode gerir as suas preferências. //tipo de cozinha preferida e ingredientes específicos
 
 
-4. O utilizador deve poder editar informação relativa ao seu perfil.
+4. O utilizador pode editar informação relativa ao seu perfil.
 
 
-5. O utilizador deve poder editar infornação relativa às suas preferências.
+5. O utilizador pode anotar uma ementa semanal. //sistema deve guardar (anotar)
 
 
-6. O utlizador poderá consultar um conjunto de dados relativos aos cozinhados realizados.
+6. O utilizador deve ser capaz de consultar a lista de ingredientes
+ relativos a uma ementa semanal.
 
 
-7. O utilizador poderá anotar uma ementa semanal e preparar a lista dos ingredientes.
+7. O utilizador deve poder apresentar 
 
 
-8. O utilizador poderá escolher uma receita depois de solicitar ao programa 
-que lhe apresente receitas, uma de cada vez.
+8. O utilizador pode 
 
-
-9. O utilizador pode 
+ . O utilizador poderá consultar um conjunto de dados relativos aos cozinhados realizados.
 
 
 
@@ -45,9 +42,7 @@ que lhe apresente receitas, uma de cada vez.
 
 
 
-
-
-
+ 
 
 Registar utilizadores;
 	Fazer login;
